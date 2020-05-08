@@ -1,2 +1,7 @@
 spring.messages.basename:test
 spring.messages.encoding:UTF-8
+---
+spring:
+  shell:
+    interactive:
+      enabled: true
